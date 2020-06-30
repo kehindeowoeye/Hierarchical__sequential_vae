@@ -1,1 +1,1 @@
-# Hierarchical__sequential_vae
+# Hierarchical_sequential_vae
